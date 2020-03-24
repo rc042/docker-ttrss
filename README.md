@@ -8,4 +8,4 @@ I remove the TTRSS version check and use the last one (master): https://tt-rss.o
 
 ## How to use
 
-docker build --no-cache --pull -t linuxserver/tt-rss:latest .
+`docker build --no-cache --pull -t reedcrif/ttrss: .`
