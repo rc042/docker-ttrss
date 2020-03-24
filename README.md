@@ -2,7 +2,7 @@
 
 This is a fork from https://github.com/linuxserver/docker-tt-rss
 
-The LinuxServer is now archived but I needed it.
+The LinuxServer is now archived and not available in Docker Hub anymore; this is my version.
 
 I remove the TTRSS version check and use the last one (master): https://tt-rss.org/
 
