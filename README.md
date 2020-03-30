@@ -1,3 +1,5 @@
+# /!\ CURRENTLY NOT WORKING /!\
+
 # Description
 
 This is a fork from https://github.com/linuxserver/docker-tt-rss
