@@ -44,9 +44,8 @@ RUN \
  rm -rf \
 	/tmp/*
 
-# copy local files
-# COPY root/ /
-
-# ports and volumes
-EXPOSE 80 443
 VOLUME /config
+
+# Exposed ports
+EXPOSE 80 443
+
